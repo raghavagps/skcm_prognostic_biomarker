@@ -51,7 +51,7 @@ learning approaches.
 -   'preprocessing_geo904.py': To clean the data and match with tcga
     biomarker set genes
 -   'geo904.py': Used for ML analysis for 15 match genes(primary set)
--   '3rdset_13_geo904.py : Used for ML analysis for 12 match genes
+-   '3rdset_12_geo904.py : Used for ML analysis for 12 match genes
     (third set)
 
 ## 📂 Datasets Used
